@@ -17,4 +17,4 @@ de Star Trek, tales como:
 *Otros muchos más
 
 A su vez, escribiendo este libro aprenderemos a utilizar
-Git y también un poco de markdown.
+Git y también un poco de markdown. Genial!
